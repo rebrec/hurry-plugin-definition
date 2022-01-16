@@ -1,6 +1,6 @@
 {
   "name": "hurry-plugin-definition",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "",
   "main": "dist/main.bundle.js",
   "scripts": {
