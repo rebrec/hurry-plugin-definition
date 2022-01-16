@@ -1,14 +1,2 @@
-
-export default class Plugin {
-    constructor(api){
-        this._api = api;
-    }
-    
-    beginLoad(){}
-    
-    onLoaded(){}
-    
-    onReady(){}
-    
-    onUnload(){}
-} 
+import {Plugin as P} from './Plugin'
+export const Plugin = P
